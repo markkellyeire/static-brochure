@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://www.kingfishergifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://www.kingfishergifts.com/collections/headwear.atom"/>
+  <title>Kingfisher Gifts</title>
+  <updated>2014-11-03T12:41:35+00:00</updated>
+  <author>
+    <name>Kingfisher Gifts</name>
+  </author>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675803</id>
+    <published>2014-11-03T12:41:35+00:00</published>
+    <updated>2014-11-03T12:41:35+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs194"/>
+    <title>Flexfit christmas cap</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS194_Black_Red_Green_FT.jpeg?v=1415018497" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              14.95
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span> Exclusive stylish cap with Christmas tree and snow flakes design.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675803</id>
+      <title>Default / Black / Red / Green</title>
+      <s:price currency="GBP">14.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675779</id>
+    <published>2014-11-03T12:41:32+00:00</published>
+    <updated>2014-11-03T12:41:32+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs193"/>
+    <title>Plush character earmuffs</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS193_Reindeer_FT.jpeg?v=1415018494" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              7.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span> Fun Christmas character earmuffs, great for the chilly season.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675779</id>
+      <title>Default / Reindeer</title>
+      <s:price currency="GBP">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675779</id>
+      <title>Default / Santa</title>
+      <s:price currency="GBP">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675747</id>
+    <published>2014-11-03T12:41:29+00:00</published>
+    <updated>2014-11-03T12:41:29+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs192"/>
+    <title>Reindeer hat</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS192_Reindeer_Brown_FT.jpeg?v=1415018491" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              9.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Reindeer hat with large antlers and eyes. </span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675747</id>
+      <title>Default / Reindeer Brown</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675719</id>
+    <published>2014-11-03T12:41:27+00:00</published>
+    <updated>2014-11-03T12:41:27+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs191"/>
+    <title>Santa hat with plaits</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS191_Red_FT.jpeg?v=1415018489" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              2.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Be the envy of Mrs Santa with the Santa hat with plaits</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675719</id>
+      <title>Default / Red</title>
+      <s:price currency="GBP">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675695</id>
+    <published>2014-11-03T12:41:24+00:00</published>
+    <updated>2014-11-03T12:41:24+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs189"/>
+    <title>Santa sleigh hat</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS189_Green_Red_FT.jpeg?v=1415018486" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              7.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Become a member of Santa's sleigh team with this festive hat.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675695</id>
+      <title>Default / Green / Red</title>
+      <s:price currency="GBP">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675675</id>
+    <published>2014-11-03T12:41:22+00:00</published>
+    <updated>2014-11-03T12:41:22+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs188"/>
+    <title>Li&apos;l elf hat</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS188_Green_Red_FT.jpeg?v=1415018483" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              7.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span> Santa's 'lil Elf hat with large elf ears.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675675</id>
+      <title>Default / Green / Red</title>
+      <s:price currency="GBP">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675655</id>
+    <published>2014-11-03T12:41:19+00:00</published>
+    <updated>2014-11-03T12:41:19+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs187"/>
+    <title>Elf hat with ears</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS187_Green_Red_FT.jpeg?v=1415018481" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              7.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Dress like a Christmas elf with our fun elf hat with ears.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675655</id>
+      <title>Default / Green / Red</title>
+      <s:price currency="GBP">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675631</id>
+    <published>2014-11-03T12:41:16+00:00</published>
+    <updated>2014-11-03T12:41:16+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs186"/>
+    <title>Reindeer antlers</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS186.jpeg?v=1415018478" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              6.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Reindeer antler set with flashing nose.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675631</id>
+      <title>Default / Reindeer</title>
+      <s:price currency="GBP">6.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675607</id>
+    <published>2014-11-03T12:41:14+00:00</published>
+    <updated>2014-11-03T12:41:14+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs185"/>
+    <title>Christmas chimney hat with legs</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS185_Red_FT.jpeg?v=1415018476" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              7.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Merry Christmas chimney hat with Santa's legs.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675607</id>
+      <title>Default / Red</title>
+      <s:price currency="GBP">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675583</id>
+    <published>2014-11-03T12:41:10+00:00</published>
+    <updated>2014-11-03T12:41:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs184"/>
+    <title>Light-up singing christmas hat</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS184_Snowman_FT.jpeg?v=1415018473" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              14.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Fun musical Christmas hat with flashing lights.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675583</id>
+      <title>Default / Snowman</title>
+      <s:price currency="GBP">14.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675583</id>
+      <title>Default / Stripes</title>
+      <s:price currency="GBP">14.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675559</id>
+    <published>2014-11-03T12:41:08+00:00</published>
+    <updated>2014-11-03T12:41:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs183"/>
+    <title>Plush santa hat</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS183_Red_FT.jpeg?v=1415018469" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              3.60
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Plush Santa hat for the festive season with space for personalisation.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675559</id>
+      <title>Default / Red</title>
+      <s:price currency="GBP">3.60</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675515</id>
+    <published>2014-11-03T12:41:00+00:00</published>
+    <updated>2014-11-03T12:41:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs181"/>
+    <title>Christmas cook hat</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS181_Red_FT.jpeg?v=1415018464" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              2.50
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Name the Christmas cook with their very own chefs hat.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675515</id>
+      <title>Default / Red</title>
+      <s:price currency="GBP">2.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675515</id>
+      <title>Default / White</title>
+      <s:price currency="GBP">2.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675475</id>
+    <published>2014-11-03T12:40:56+00:00</published>
+    <updated>2014-11-03T12:40:56+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs180"/>
+    <title>Santa hat long</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS180_Red_FT.jpeg?v=1415018459" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              4.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Long Santa hat with space for personalisation.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675475</id>
+      <title>Default / Red</title>
+      <s:price currency="GBP">4.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675475</id>
+      <title>Default / Stripes</title>
+      <s:price currency="GBP">4.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675223</id>
+    <published>2014-11-03T12:40:32+00:00</published>
+    <updated>2014-11-03T12:40:32+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs111"/>
+    <title>Premium Santa Hat</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS111_Red_FT.jpeg?v=1415018433" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              1.49
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Premium santa hat with bell. Great for personalisation.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675223</id>
+      <title>Default / Red/ White</title>
+      <s:price currency="GBP">1.49</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675203</id>
+    <published>2014-11-03T12:40:30+00:00</published>
+    <updated>2014-11-03T12:40:30+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs102"/>
+    <title>Budget Santa Hat</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS102_Red_FT.jpeg?v=1415018431" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Headwear<br />
+            <strong>Price: </strong>
+              0.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Economy hat for the festive season.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Headwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675203</id>
+      <title>Default / Red</title>
+      <s:price currency="GBP">0.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://www.kingfishergifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://www.kingfishergifts.com/collections/christmas-jumpers.atom"/>
+  <title>Kingfisher Gifts</title>
+  <updated>2014-11-03T12:40:00+00:00</updated>
+  <author>
+    <name>Kingfisher Gifts</name>
+  </author>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675331</id>
+    <published>2014-11-03T12:40:00+00:00</published>
+    <updated>2014-11-03T12:40:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs154"/>
+    <title>3D christmas jumper - Elf</title>
+    <s:type>Christmas Jumpers</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS154_Green_Red_FT.jpeg?v=1415018443" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Christmas Jumpers<br />
+            <strong>Price: </strong>
+              19.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Warm and cosy Christmas elf design with 3D buttons and bells.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Jumpers</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675331</id>
+      <title>S / Green / Red</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675331</id>
+      <title>M / Green / Red</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675331</id>
+      <title>L / Green / Red</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675331</id>
+      <title>XL / Green / Red</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675331</id>
+      <title>2XL / Green / Red</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675259</id>
+    <published>2014-11-03T12:40:00+00:00</published>
+    <updated>2014-11-03T12:40:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs151"/>
+    <title>3D christmas jumper - Reindeer</title>
+    <s:type>Christmas Jumpers</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS151_Royal_FT.jpeg?v=1415018436" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Christmas Jumpers<br />
+            <strong>Price: </strong>
+              19.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span> Warm and cosy Christmas reindeer design with 3D bells, nose &amp; scarf.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Jumpers</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675259</id>
+      <title>S / Royal</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675259</id>
+      <title>M / Royal</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675259</id>
+      <title>L / Royal</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675259</id>
+      <title>XL / Royal</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675259</id>
+      <title>2XL / Royal</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675303</id>
+    <published>2014-11-03T12:40:00+00:00</published>
+    <updated>2014-11-03T12:40:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs153"/>
+    <title>3D christmas jumper - Snowman</title>
+    <s:type>Christmas Jumpers</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS153_Snowman_FT.jpeg?v=1415018441" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Christmas Jumpers<br />
+            <strong>Price: </strong>
+              19.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Warm and cosy Christmas snowman design with 3D nose &amp; scarf.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Jumpers</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675303</id>
+      <title>S / Navy / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675303</id>
+      <title>M / Navy / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675303</id>
+      <title>L / Navy / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675303</id>
+      <title>XL / Navy / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675303</id>
+      <title>2XL / Navy / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675399</id>
+    <published>2014-11-03T12:40:00+00:00</published>
+    <updated>2014-11-03T12:40:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs161"/>
+    <title>Christmas 2-piece</title>
+    <s:type>Christmas Jumpers</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS161_Red_Blue_White_FT.jpeg?v=1415025776" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Christmas Jumpers<br />
+            <strong>Price: </strong>
+              29.50
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>An alternative to the traditional All-in-One, made from supersoft fleece with drawstring and bobbles.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Jumpers</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675399</id>
+      <title>S / Red / Blue / White</title>
+      <s:price currency="GBP">29.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675399</id>
+      <title>M / Red / Blue / White</title>
+      <s:price currency="GBP">29.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675399</id>
+      <title>L / Red / Blue / White</title>
+      <s:price currency="GBP">29.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675399</id>
+      <title>XL / Red / Blue / White</title>
+      <s:price currency="GBP">29.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675367</id>
+    <published>2014-11-03T12:40:00+00:00</published>
+    <updated>2014-11-03T12:40:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs156"/>
+    <title>Christmas jumper - Nordic</title>
+    <s:type>Christmas Jumpers</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS156_Navy_White_Red_FT.jpeg?v=1415018447" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Christmas Jumpers<br />
+            <strong>Price: </strong>
+              19.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span> Warm and cosy Christmas Nordic design.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Jumpers</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675367</id>
+      <title>S / Navy / White / Red</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675367</id>
+      <title>M / Navy / White / Red</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675367</id>
+      <title>L / Navy / White / Red</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675367</id>
+      <title>XL / Navy / White / Red</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675367</id>
+      <title>2XL / Navy / White / Red</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675347</id>
+    <published>2014-11-03T12:40:00+00:00</published>
+    <updated>2014-11-03T12:40:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs155"/>
+    <title>Christmas jumper - Pudding</title>
+    <s:type>Christmas Jumpers</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS155_Brown_White_FT.jpeg?v=1415018445" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Christmas Jumpers<br />
+            <strong>Price: </strong>
+              19.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Warm and cosy Christmas pudding design.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Jumpers</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675347</id>
+      <title>S / Brown / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675347</id>
+      <title>M / Brown / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675347</id>
+      <title>L / Brown / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675347</id>
+      <title>XL / Brown / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675347</id>
+      <title>2XL / Brown / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675279</id>
+    <published>2014-11-03T12:40:00+00:00</published>
+    <updated>2014-11-03T12:40:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs152"/>
+    <title>3D christmas jumper - Santa</title>
+    <s:type>Christmas Jumpers</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS152_Red_White_FT.jpeg?v=1415018438" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Christmas Jumpers<br />
+            <strong>Price: </strong>
+              19.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Warm and cosy Christmas Santa design with 3D buttons &amp; belt.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas Jumpers</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675279</id>
+      <title>S / Red / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675279</id>
+      <title>M / Red / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675279</id>
+      <title>L / Red / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675279</id>
+      <title>XL / Red / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675279</id>
+      <title>2XL / Red / White</title>
+      <s:price currency="GBP">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

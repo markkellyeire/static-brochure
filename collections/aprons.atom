@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://www.kingfishergifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://www.kingfishergifts.com/collections/aprons.atom"/>
+  <title>Kingfisher Gifts</title>
+  <updated>2014-11-03T12:42:07+00:00</updated>
+  <author>
+    <name>Kingfisher Gifts</name>
+  </author>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399676043</id>
+    <published>2014-11-03T12:42:07+00:00</published>
+    <updated>2014-11-03T12:42:07+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs251"/>
+    <title>Hat &amp; apron set</title>
+    <s:type>Aprons</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS251_Red_FT.jpeg?v=1415018528" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Aprons<br />
+            <strong>Price: </strong>
+              14.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Christmas apron and hat set for the Christmas day chef. </span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Aprons</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399676043</id>
+      <title>Default / Red</title>
+      <s:price currency="GBP">14.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675451</id>
+    <published>2014-11-03T12:40:53+00:00</published>
+    <updated>2014-11-03T12:40:53+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs173"/>
+    <title>Christmas apron</title>
+    <s:type>Aprons</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS173_GreenSanta_FT.jpeg?v=1415018455" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Aprons<br />
+            <strong>Price: </strong>
+              7.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Festive Christmas aprons, great for Christmas day cooking.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Aprons</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675451</id>
+      <title>Default / Green Santa</title>
+      <s:price currency="GBP">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675451</id>
+      <title>Default / Red Tree</title>
+      <s:price currency="GBP">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675427</id>
+    <published>2014-11-03T12:40:51+00:00</published>
+    <updated>2014-11-03T12:40:51+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs172"/>
+    <title>Red cotton christmas apron</title>
+    <s:type>Aprons</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS172_Red_FT.jpeg?v=1415018452" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Aprons<br />
+            <strong>Price: </strong>
+              7.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Perfect for cooking up a storm in the kitchen with Santas belt design.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Aprons</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675427</id>
+      <title>Default / Red</title>
+      <s:price currency="GBP">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675415</id>
+    <published>2014-11-03T12:40:50+00:00</published>
+    <updated>2014-11-03T12:40:50+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs170"/>
+    <title>Kids santa apron</title>
+    <s:type>Aprons</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS170_Santa_FT.jpeg?v=1415018451" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Aprons<br />
+            <strong>Price: </strong>
+              5.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Kids sized felt apron with Santa print, great for crafts and cooking.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Aprons</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675415</id>
+      <title>Default / Santa</title>
+      <s:price currency="GBP">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

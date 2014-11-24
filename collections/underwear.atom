@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://www.kingfishergifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://www.kingfishergifts.com/collections/underwear.atom"/>
+  <title>Kingfisher Gifts</title>
+  <updated>2014-11-03T12:42:00+00:00</updated>
+  <author>
+    <name>Kingfisher Gifts</name>
+  </author>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399676003</id>
+    <published>2014-11-03T12:42:00+00:00</published>
+    <updated>2014-11-03T12:42:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs246"/>
+    <title>Kariban men&apos;s boxer</title>
+    <s:type>Underwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS246.jpeg?v=1415018521" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Underwear<br />
+            <strong>Price: </strong>
+              9.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Festive men's boxer short with cheeky Christmas decoration. </span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Underwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399676003</id>
+      <title>S / White</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399676003</id>
+      <title>M / White</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399676003</id>
+      <title>L / White</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399676003</id>
+      <title>XL / White</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399676003</id>
+      <title>2XL / White</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675971</id>
+    <published>2014-11-03T12:41:52+00:00</published>
+    <updated>2014-11-03T12:41:52+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs241"/>
+    <title>Christmas socks</title>
+    <s:type>Underwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS241_SantaBlue_FT.jpeg?v=1415018514" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Underwear<br />
+            <strong>Price: </strong>
+              4.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>A choice of blue Santa or red snowman festive socks to keep the chill at bay. </span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Underwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675971</id>
+      <title>Default / Santa Blue</title>
+      <s:price currency="GBP">4.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675971</id>
+      <title>Default / Snowman Red</title>
+      <s:price currency="GBP">4.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675991</id>
+    <published>2014-11-03T12:41:00+00:00</published>
+    <updated>2014-11-03T12:41:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs245"/>
+    <title>American apparel baby rib brief</title>
+    <s:type>Underwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS245_Back.jpeg?v=1415018519" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Underwear<br />
+            <strong>Price: </strong>
+              9.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span> Festive baby rib brief with cheeky Christmas decoration.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Underwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675991</id>
+      <title>XS / Red</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675991</id>
+      <title>S / Red</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675991</id>
+      <title>M / Red</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675991</id>
+      <title>L / Red</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675991</id>
+      <title>XL / Red</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://www.kingfishergifts.com/products/399675983</id>
+    <published>2014-11-03T12:41:00+00:00</published>
+    <updated>2014-11-03T12:41:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs244"/>
+    <title>Bella women&apos;s cotton spandex shortie</title>
+    <s:type>Underwear</s:type>
+    <s:vendor>Christmas Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https:http://cdn.shopify.com/s/files/1/0686/4363/products/CS244.jpeg?v=1415018517" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Christmas Shop<br />
+            <strong>Type: </strong>Underwear<br />
+            <strong>Price: </strong>
+              9.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Festive cotton spandex brief with cheeky decoration.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Underwear</s:tag>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675983</id>
+      <title>S / White</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675983</id>
+      <title>M / White</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://www.kingfishergifts.com/products/399675983</id>
+      <title>L / White</title>
+      <s:price currency="GBP">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
