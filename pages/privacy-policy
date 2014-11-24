@@ -14,11 +14,11 @@
 
   <!-- Title and description ================================================== -->
   <title>
-  Privacy Policy &ndash; Kingfisher Gifts
+  Privacy Policy &ndash; MJ Services
   </title>
 
   
-  <meta name="description" content="Your Privacy Kingfisher Gifts is totally committed to protecting the privacy of our site, visitors and above all customers. Our employees fully appreciate and r">
+  <meta name="description" content="Your Privacy MJ Services is totally committed to protecting the privacy of our site, visitors and above all customers. Our employees fully appreciate and r">
   
 
   <!-- Product meta ================================================== -->
@@ -31,10 +31,10 @@
   
 
 
-  <meta property="og:description" content="Your Privacy Kingfisher Gifts is totally committed to protecting the privacy of our site, visitors and above all customers. Our employees fully appreciate and r">
+  <meta property="og:description" content="Your Privacy MJ Services is totally committed to protecting the privacy of our site, visitors and above all customers. Our employees fully appreciate and r">
 
-  <meta property="og:url" content="http://www.kingfishergifts.com/pages/privacy-policy">
-  <meta property="og:site_name" content="Kingfisher Gifts">
+  <meta property="og:url" content="http:///pages/privacy-policy">
+  <meta property="og:site_name" content="MJ Services">
 
   
   
@@ -45,12 +45,12 @@
 
 
   <!-- Helpers ================================================== -->
-  <link rel="canonical" href="http://www.kingfishergifts.com/pages/privacy-policy">
+  <link rel="canonical" href="http:///pages/privacy-policy">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
   
   <!-- Ajaxify Cart Plugin ================================================== -->
-  <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/ajaxify.scss.css?637" rel="stylesheet" type="text/css"  media="all"  />
+  
   
 
   <!-- CSS ================================================== -->
@@ -90,7 +90,7 @@
 
 <script id="__st">
 //<![CDATA[
-var __st={"a":6864363,"offset":0,"reqid":"cac763f0-98b0-460c-a6a4-2bfd5e44b82e","pageurl":"www.kingfishergifts.com/pages/privacy-policy","s":"pages-22703983","u":"1971c48368c7","p":"page","rtyp":"page","rid":22703983};
+var __st={"a":6864363,"offset":0,"reqid":"cac763f0-98b0-460c-a6a4-2bfd5e44b82e","pageurl":"/pages/privacy-policy","s":"pages-22703983","u":"1971c48368c7","p":"page","rtyp":"page","rid":22703983};
 //]]>
 </script>
 
@@ -101,8 +101,8 @@ var __st={"a":6864363,"offset":0,"reqid":"cac763f0-98b0-460c-a6a4-2bfd5e44b82e",
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
 <script src="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond.min.js?637" type="text/javascript"></script>
 <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-<link href="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
-<script src="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
+<link href="///search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
+<script src="///search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
 <![endif]-->
 
 
@@ -126,7 +126,7 @@ var __st={"a":6864363,"offset":0,"reqid":"cac763f0-98b0-460c-a6a4-2bfd5e44b82e",
           
             
               <a href="/" itemprop="url">
-                <img src="http:http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/logo.png?637" alt="Kingfisher Gifts" itemprop="logo">
+                
               </a>
             
           
@@ -312,7 +312,7 @@ var __st={"a":6864363,"offset":0,"reqid":"cac763f0-98b0-460c-a6a4-2bfd5e44b82e",
       <h1></h1>
 <h1 id="yui_3_17_2_1_1415097089802_268"></h1>
 <h2><strong>Your Privacy</strong></h2>
-<p><span>Kingfisher Gifts is totally committed to protecting the privacy of our site, visitors and above all customers. Our employees fully appreciate and respect the importance of privacy and we will not disclose information about our customers to third parties without previously being given their permission. All personal information is protected under the Data Protection Act of 1994 of which Kingfisher Gifts is registered and fully compliant.</span></p>
+<p><span>MJ Services is totally committed to protecting the privacy of our site, visitors and above all customers. Our employees fully appreciate and respect the importance of privacy and we will not disclose information about our customers to third parties without previously being given their permission. All personal information is protected under the Data Protection Act of 1994 of which MJ Services is registered and fully compliant.</span></p>
 <p><span>We do not store credit card details nor do we share customer details with any 3rd parties.</span></p>
 <p><strong><span>Your Consent</span></strong></p>
 <p><span>We will not rent or sell your name, address, email address or personal information to any third party without your prior permission.</span></p>
@@ -381,7 +381,7 @@ var __st={"a":6864363,"offset":0,"reqid":"cac763f0-98b0-460c-a6a4-2bfd5e44b82e",
         
         <ul class="legal-links inline-list">
           <li>
-            &copy; 2014 Kingfisher Gifts
+            
           </li>
           <li>
             <a href="http://www.shopify.co.uk" target="_blank">Powered by Shopify</a>

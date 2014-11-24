@@ -14,7 +14,7 @@
 
   <!-- Title and description ================================================== -->
   <title>
-  Premium Santa Hat &ndash; Kingfisher Gifts
+  Premium Santa Hat &ndash; MJ Services
   </title>
 
   
@@ -35,8 +35,8 @@
 
   <meta property="og:description" content="Premium santa hat with bell. Great for personalisation.">
 
-  <meta property="og:url" content="http://www.kingfishergifts.com/products/cs111">
-  <meta property="og:site_name" content="Kingfisher Gifts">
+  <meta property="og:url" content="http:///products/cs111">
+  <meta property="og:site_name" content="MJ Services">
 
   
   
@@ -60,7 +60,7 @@
 
 
   <!-- Helpers ================================================== -->
-  <link rel="canonical" href="http://www.kingfishergifts.com/products/cs111">
+  <link rel="canonical" href="http:///products/cs111">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
   <!-- CSS ================================================== -->
@@ -101,7 +101,7 @@
           
             
               <a href="/" itemprop="url">
-                <img src="../assets/logo.png?637" alt="Kingfisher Gifts" itemprop="logo">
+                <img src="../assets/logo.png?637" alt="MJ Services" itemprop="logo">
               </a>
             
           
@@ -279,7 +279,7 @@
 
 
 <div class="grid" itemscope itemtype="http://schema.org/Product">
-  <meta itemprop="url" content="http://www.kingfishergifts.com/products/cs111">
+  <meta itemprop="url" content="http:///products/cs111">
   <meta itemprop="image" content="http://cdn.shopify.com/s/files/1/0686/4363/products/CS111_Red_FT_grande.jpeg?v=1415018433">
 
   <div class="grid-item large--two-fifths">
@@ -361,10 +361,10 @@
 
 
 
-<div class="social-sharing is-default" data-permalink="http://www.kingfishergifts.com/products/cs111">
+<div class="social-sharing is-default" data-permalink="http:///products/cs111">
 
   
-    <a target="_blank" href="//www.facebook.com/sharer.php?u=http://www.kingfishergifts.com/products/cs111" class="share-facebook">
+    <a target="_blank" href="//www.facebook.com/sharer.php?u=http:///products/cs111" class="share-facebook">
       <span class="icon icon-facebook"></span>
       <span class="share-title">Share</span>
       
@@ -374,7 +374,7 @@
   
 
   
-    <a target="_blank" href="//twitter.com/share?url=http://www.kingfishergifts.com/products/cs111&amp;text=Premium Santa Hat" class="share-twitter">
+    <a target="_blank" href="//twitter.com/share?url=http:///products/cs111&amp;text=Premium Santa Hat" class="share-twitter">
       <span class="icon icon-twitter"></span>
       <span class="share-title">Tweet</span>
       
@@ -386,7 +386,7 @@
   
 
     
-      <a target="_blank" href="//pinterest.com/pin/create/button/?url=http://www.kingfishergifts.com/products/cs111&amp;media=http://cdn.shopify.com/s/files/1/0686/4363/products/CS111_Red_FT_1024x1024.jpeg?v=1415018433&amp;description=Premium Santa Hat" class="share-pinterest">
+      <a target="_blank" href="//pinterest.com/pin/create/button/?url=http:///products/cs111&amp;media=http://cdn.shopify.com/s/files/1/0686/4363/products/CS111_Red_FT_1024x1024.jpeg?v=1415018433&amp;description=Premium Santa Hat" class="share-pinterest">
         <span class="icon icon-pinterest"></span>
         <span class="share-title">Pin it</span>
         
@@ -396,7 +396,7 @@
     
 
     
-      <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http://www.kingfishergifts.com/products/cs111&amp;Title=Premium Santa Hat&amp;Category=Other&amp;ImageURL=http://cdn.shopify.com/s/files/1/0686/4363/products/CS111_Red_FT_1024x1024.jpeg?v=1415018433" class="share-fancy">
+      <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http:///products/cs111&amp;Title=Premium Santa Hat&amp;Category=Other&amp;ImageURL=http://cdn.shopify.com/s/files/1/0686/4363/products/CS111_Red_FT_1024x1024.jpeg?v=1415018433" class="share-fancy">
         <span class="icon icon-fancy"></span>
         <span class="share-title">Fancy</span>
       </a>
@@ -405,7 +405,7 @@
   
 
   
-    <a target="_blank" href="//plus.google.com/share?url=http://www.kingfishergifts.com/products/cs111" class="share-google">
+    <a target="_blank" href="//plus.google.com/share?url=http:///products/cs111" class="share-google">
       <!-- Cannot get Google+ share count with JS yet -->
       <span class="icon icon-google"></span>
       
@@ -826,7 +826,7 @@
         
         <ul class="legal-links inline-list">
           <li>
-            &copy; 2014 Kingfisher Gifts
+            
           </li>
           <li>
             <a href="http://www.shopify.co.uk" target="_blank">Powered by Shopify</a>

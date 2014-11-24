@@ -14,7 +14,7 @@
 
   <!-- Title and description ================================================== -->
   <title>
-  Santa all-in-one &ndash; Kingfisher Gifts
+  Santa all-in-one &ndash; MJ Services
   </title>
 
   
@@ -35,8 +35,8 @@
 
   <meta property="og:description" content="Super comfy santa all-in-one. With zip through front, and kagaroo pounch. Baggy fit for maximum comfort.">
 
-  <meta property="og:url" content="http://www.kingfishergifts.com/products/cc008">
-  <meta property="og:site_name" content="Kingfisher Gifts">
+  <meta property="og:url" content="http:///products/cc008">
+  <meta property="og:site_name" content="MJ Services">
 
   
   
@@ -60,12 +60,12 @@
 
 
   <!-- Helpers ================================================== -->
-  <link rel="canonical" href="http://www.kingfishergifts.com/products/cc008">
+  <link rel="canonical" href="http:///products/cc008">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
   
   <!-- Ajaxify Cart Plugin ================================================== -->
-  <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/ajaxify.scss.css?637" rel="stylesheet" type="text/css"  media="all"  />
+  
   
 
   <!-- CSS ================================================== -->
@@ -92,7 +92,7 @@
 
 
   <!-- Header hook for plugins ================================================== -->
-  <link rel="alternate" type="application/json+oembed" href="http://www.kingfishergifts.com/products/cc008.oembed" />
+  <link rel="alternate" type="application/json+oembed" href="http:///products/cc008.oembed" />
 <script>
 //<![CDATA[
       var Shopify = Shopify || {};
@@ -106,7 +106,7 @@
 
 <script id="__st">
 //<![CDATA[
-var __st={"a":6864363,"offset":0,"reqid":"4ca47beb-7ac9-4bb2-a001-40588cbac8ab","pageurl":"www.kingfishergifts.com/products/cc008","s":"products-399675187","t":"lead","u":"ff3ad4c1d92c","p":"product","rtyp":"product","rid":399675187};
+var __st={"a":6864363,"offset":0,"reqid":"4ca47beb-7ac9-4bb2-a001-40588cbac8ab","pageurl":"/products/cc008","s":"products-399675187","t":"lead","u":"ff3ad4c1d92c","p":"product","rtyp":"product","rid":399675187};
 //]]>
 </script>
 
@@ -117,8 +117,8 @@ var __st={"a":6864363,"offset":0,"reqid":"4ca47beb-7ac9-4bb2-a001-40588cbac8ab",
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
 <script src="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond.min.js?637" type="text/javascript"></script>
 <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-<link href="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
-<script src="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
+<link href="///search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
+<script src="///search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
 <![endif]-->
 
 
@@ -142,7 +142,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4ca47beb-7ac9-4bb2-a001-40588cbac8ab",
           
             
               <a href="/" itemprop="url">
-                <img src="http:http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/logo.png?637" alt="Kingfisher Gifts" itemprop="logo">
+                
               </a>
             
           
@@ -320,7 +320,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4ca47beb-7ac9-4bb2-a001-40588cbac8ab",
 
 
 <div class="grid" itemscope itemtype="http://schema.org/Product">
-  <meta itemprop="url" content="http://www.kingfishergifts.com/products/cc008">
+  <meta itemprop="url" content="http:///products/cc008">
   <meta itemprop="image" content="http://cdn.shopify.com/s/files/1/0686/4363/products/CC008_Red_FT_grande.jpeg?v=1415018429">
 
   <div class="grid-item large--two-fifths">
@@ -420,10 +420,10 @@ var __st={"a":6864363,"offset":0,"reqid":"4ca47beb-7ac9-4bb2-a001-40588cbac8ab",
 
 
 
-<div class="social-sharing is-default" data-permalink="http://www.kingfishergifts.com/products/cc008">
+<div class="social-sharing is-default" data-permalink="http:///products/cc008">
 
   
-    <a target="_blank" href="//www.facebook.com/sharer.php?u=http://www.kingfishergifts.com/products/cc008" class="share-facebook">
+    <a target="_blank" href="//www.facebook.com/sharer.php?u=http:///products/cc008" class="share-facebook">
       <span class="icon icon-facebook"></span>
       <span class="share-title">Share</span>
       
@@ -433,7 +433,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4ca47beb-7ac9-4bb2-a001-40588cbac8ab",
   
 
   
-    <a target="_blank" href="//twitter.com/share?url=http://www.kingfishergifts.com/products/cc008&amp;text=Santa all-in-one" class="share-twitter">
+    <a target="_blank" href="//twitter.com/share?url=http:///products/cc008&amp;text=Santa all-in-one" class="share-twitter">
       <span class="icon icon-twitter"></span>
       <span class="share-title">Tweet</span>
       
@@ -445,7 +445,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4ca47beb-7ac9-4bb2-a001-40588cbac8ab",
   
 
     
-      <a target="_blank" href="//pinterest.com/pin/create/button/?url=http://www.kingfishergifts.com/products/cc008&amp;media=http://cdn.shopify.com/s/files/1/0686/4363/products/CC008_Red_FT_1024x1024.jpeg?v=1415018429&amp;description=Santa all-in-one" class="share-pinterest">
+      <a target="_blank" href="//pinterest.com/pin/create/button/?url=http:///products/cc008&amp;media=http://cdn.shopify.com/s/files/1/0686/4363/products/CC008_Red_FT_1024x1024.jpeg?v=1415018429&amp;description=Santa all-in-one" class="share-pinterest">
         <span class="icon icon-pinterest"></span>
         <span class="share-title">Pin it</span>
         
@@ -455,7 +455,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4ca47beb-7ac9-4bb2-a001-40588cbac8ab",
     
 
     
-      <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http://www.kingfishergifts.com/products/cc008&amp;Title=Santa all-in-one&amp;Category=Other&amp;ImageURL=http://cdn.shopify.com/s/files/1/0686/4363/products/CC008_Red_FT_1024x1024.jpeg?v=1415018429" class="share-fancy">
+      <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http:///products/cc008&amp;Title=Santa all-in-one&amp;Category=Other&amp;ImageURL=http://cdn.shopify.com/s/files/1/0686/4363/products/CC008_Red_FT_1024x1024.jpeg?v=1415018429" class="share-fancy">
         <span class="icon icon-fancy"></span>
         <span class="share-title">Fancy</span>
       </a>
@@ -464,7 +464,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4ca47beb-7ac9-4bb2-a001-40588cbac8ab",
   
 
   
-    <a target="_blank" href="//plus.google.com/share?url=http://www.kingfishergifts.com/products/cc008" class="share-google">
+    <a target="_blank" href="//plus.google.com/share?url=http:///products/cc008" class="share-google">
       <!-- Cannot get Google+ share count with JS yet -->
       <span class="icon icon-google"></span>
       
@@ -747,7 +747,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4ca47beb-7ac9-4bb2-a001-40588cbac8ab",
         
         <ul class="legal-links inline-list">
           <li>
-            &copy; 2014 Kingfisher Gifts
+            
           </li>
           <li>
             <a href="http://www.shopify.co.uk" target="_blank">Powered by Shopify</a>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>http://www.kingfishergifts.com/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="http://www.kingfishergifts.com/collections/aprons.atom"/>
-  <title>Kingfisher Gifts</title>
+  <id>http:///collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http:///collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http:///collections/aprons.atom"/>
+  <title>MJ Services</title>
   <updated>2014-11-03T12:42:07+00:00</updated>
   <author>
-    <name>Kingfisher Gifts</name>
+    <name>MJ Services</name>
   </author>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399676043</id>
+    <id>http:///products/399676043</id>
     <published>2014-11-03T12:42:07+00:00</published>
     <updated>2014-11-03T12:42:07+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs251"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs251"/>
     <title>Hat &amp; apron set</title>
     <s:type>Aprons</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -41,7 +41,7 @@
     <s:tag>Christmas</s:tag>
     <s:tag>Gifts</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399676043</id>
+      <id>http:///products/399676043</id>
       <title>Default / Red</title>
       <s:price currency="GBP">14.99</s:price>
       <s:sku/>
@@ -49,10 +49,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675451</id>
+    <id>http:///products/399675451</id>
     <published>2014-11-03T12:40:53+00:00</published>
     <updated>2014-11-03T12:40:53+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs173"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs173"/>
     <title>Christmas apron</title>
     <s:type>Aprons</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -81,14 +81,14 @@
     <s:tag>Christmas</s:tag>
     <s:tag>Gifts</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675451</id>
+      <id>http:///products/399675451</id>
       <title>Default / Green Santa</title>
       <s:price currency="GBP">7.99</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675451</id>
+      <id>http:///products/399675451</id>
       <title>Default / Red Tree</title>
       <s:price currency="GBP">7.99</s:price>
       <s:sku/>
@@ -96,10 +96,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675427</id>
+    <id>http:///products/399675427</id>
     <published>2014-11-03T12:40:51+00:00</published>
     <updated>2014-11-03T12:40:51+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs172"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs172"/>
     <title>Red cotton christmas apron</title>
     <s:type>Aprons</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -128,7 +128,7 @@
     <s:tag>Christmas</s:tag>
     <s:tag>Gifts</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675427</id>
+      <id>http:///products/399675427</id>
       <title>Default / Red</title>
       <s:price currency="GBP">7.99</s:price>
       <s:sku/>
@@ -136,10 +136,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675415</id>
+    <id>http:///products/399675415</id>
     <published>2014-11-03T12:40:50+00:00</published>
     <updated>2014-11-03T12:40:50+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs170"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs170"/>
     <title>Kids santa apron</title>
     <s:type>Aprons</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -168,7 +168,7 @@
     <s:tag>Christmas</s:tag>
     <s:tag>Gifts</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675415</id>
+      <id>http:///products/399675415</id>
       <title>Default / Santa</title>
       <s:price currency="GBP">5.99</s:price>
       <s:sku/>

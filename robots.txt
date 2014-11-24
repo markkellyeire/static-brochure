@@ -14,7 +14,7 @@ Disallow: /collections/*%2b*
 Disallow: /blogs/*+*
 Disallow: /blogs/*%2B*
 Disallow: /blogs/*%2b*
-Sitemap: http://www.kingfishergifts.com/sitemap.xml
+Sitemap: http:///sitemap.xml
 
 User-agent: Nutch
 Disallow: /

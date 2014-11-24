@@ -14,7 +14,7 @@
 
   <!-- Title and description ================================================== -->
   <title>
-  3D christmas jumper - Reindeer &ndash; Kingfisher Gifts
+  3D christmas jumper - Reindeer &ndash; MJ Services
   </title>
 
 
@@ -35,8 +35,8 @@
 
   <meta property="og:description" content=" Warm and cosy Christmas reindeer design with 3D bells, nose &amp; scarf.">
 
-  <meta property="og:url" content="http://www.kingfishergifts.com/cs151">
-  <meta property="og:site_name" content="Kingfisher Gifts">
+  <meta property="og:url" content="http:///cs151">
+  <meta property="og:site_name" content="MJ Services">
 
   
   
@@ -60,12 +60,12 @@
 
 
   <!-- Helpers ================================================== -->
-  <link rel="canonical" href="http://www.kingfishergifts.com/cs151">
+  <link rel="canonical" href="http:///cs151">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
   
   <!-- Ajaxify Cart Plugin ================================================== -->
-  <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/ajaxify.scss.css?637" rel="stylesheet" type="text/css"  media="all"  />
+  
   
 
   <!-- CSS ================================================== -->
@@ -92,41 +92,10 @@
 
 
   <!-- Header hook for plugins ================================================== -->
-  <link rel="alternate" type="application/json+oembed" href="http://www.kingfishergifts.com/cs151.oembed" />
-<script>
-//<![CDATA[
-      var Shopify = Shopify || {};
-      Shopify.shop = "giftwear.myshopify.com";
-      Shopify.theme = {"name":"Supply","id":11974859,"theme_store_id":679,"role":"main"};
+  <link rel="alternate" type="application/json+oembed" href="http:///cs151.oembed" />
 
-//]]>
-</script>
-
-
-
-<script id="__st">
-//<![CDATA[
-var __st={"a":6864363,"offset":0,"reqid":"4e7d0ffd-8bf8-4ee0-b8e1-0541964058f1","pageurl":"www.kingfishergifts.comcs151","s":"products-399675259","t":"lead","u":"2f4c5f773515","p":"product","rtyp":"product","rid":399675259};
-//]]>
-</script>
-
-
-  
-
-<!--[if lt IE 9]>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
-<script src="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond.min.js?637" type="text/javascript"></script>
-<link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-<link href="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
-<script src="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
-<![endif]-->
-
-
-  
-  
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
-  <script src="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/modernizr.min.js?637" type="text/javascript"></script>
 
 </head>
 
@@ -142,7 +111,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4e7d0ffd-8bf8-4ee0-b8e1-0541964058f1",
           
             
               <a href="/" itemprop="url">
-                <img src="http:http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/logo.png?637" alt="Kingfisher Gifts" itemprop="logo">
+                
               </a>
             
           
@@ -326,7 +295,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4e7d0ffd-8bf8-4ee0-b8e1-0541964058f1",
 
 
 <div class="grid" itemscope itemtype="http://schema.org/Product">
-  <meta itemprop="url" content="http://www.kingfishergifts.com/cs151">
+  <meta itemprop="url" content="http:///cs151">
   <meta itemprop="image" content="http://cdn.shopify.com/s/files/1/0686/4363/cs151_Royal_FT_grande.jpeg?v=1415018436">
 
   <div class="grid-item large--two-fifths">
@@ -432,10 +401,10 @@ var __st={"a":6864363,"offset":0,"reqid":"4e7d0ffd-8bf8-4ee0-b8e1-0541964058f1",
 
 
 
-<div class="social-sharing is-default" data-permalink="http://www.kingfishergifts.com/cs151">
+<div class="social-sharing is-default" data-permalink="http:///cs151">
 
   
-    <a target="_blank" href="//www.facebook.com/sharer.php?u=http://www.kingfishergifts.com/cs151" class="share-facebook">
+    <a target="_blank" href="//www.facebook.com/sharer.php?u=http:///cs151" class="share-facebook">
       <span class="icon icon-facebook"></span>
       <span class="share-title">Share</span>
       
@@ -445,7 +414,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4e7d0ffd-8bf8-4ee0-b8e1-0541964058f1",
   
 
   
-    <a target="_blank" href="//twitter.com/share?url=http://www.kingfishergifts.com/cs151&amp;text=3D christmas jumper - Reindeer" class="share-twitter">
+    <a target="_blank" href="//twitter.com/share?url=http:///cs151&amp;text=3D christmas jumper - Reindeer" class="share-twitter">
       <span class="icon icon-twitter"></span>
       <span class="share-title">Tweet</span>
       
@@ -457,7 +426,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4e7d0ffd-8bf8-4ee0-b8e1-0541964058f1",
   
 
     
-      <a target="_blank" href="//pinterest.com/pin/create/button/?url=http://www.kingfishergifts.com/cs151&amp;media=http://cdn.shopify.com/s/files/1/0686/4363/cs151_Royal_FT_1024x1024.jpeg?v=1415018436&amp;description=3D christmas jumper - Reindeer" class="share-pinterest">
+      <a target="_blank" href="//pinterest.com/pin/create/button/?url=http:///cs151&amp;media=http://cdn.shopify.com/s/files/1/0686/4363/cs151_Royal_FT_1024x1024.jpeg?v=1415018436&amp;description=3D christmas jumper - Reindeer" class="share-pinterest">
         <span class="icon icon-pinterest"></span>
         <span class="share-title">Pin it</span>
         
@@ -467,7 +436,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4e7d0ffd-8bf8-4ee0-b8e1-0541964058f1",
     
 
     
-      <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http://www.kingfishergifts.com/cs151&amp;Title=3D christmas jumper - Reindeer&amp;Category=Other&amp;ImageURL=http://cdn.shopify.com/s/files/1/0686/4363/cs151_Royal_FT_1024x1024.jpeg?v=1415018436" class="share-fancy">
+      <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http:///cs151&amp;Title=3D christmas jumper - Reindeer&amp;Category=Other&amp;ImageURL=http://cdn.shopify.com/s/files/1/0686/4363/cs151_Royal_FT_1024x1024.jpeg?v=1415018436" class="share-fancy">
         <span class="icon icon-fancy"></span>
         <span class="share-title">Fancy</span>
       </a>
@@ -476,7 +445,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4e7d0ffd-8bf8-4ee0-b8e1-0541964058f1",
   
 
   
-    <a target="_blank" href="//plus.google.com/share?url=http://www.kingfishergifts.com/cs151" class="share-google">
+    <a target="_blank" href="//plus.google.com/share?url=http:///cs151" class="share-google">
       <!-- Cannot get Google+ share count with JS yet -->
       <span class="icon icon-google"></span>
       
@@ -800,7 +769,7 @@ var __st={"a":6864363,"offset":0,"reqid":"4e7d0ffd-8bf8-4ee0-b8e1-0541964058f1",
         
         <ul class="legal-links inline-list">
           <li>
-            &copy; 2014 Kingfisher Gifts
+            
           </li>
           <li>
             <a href="http://www.shopify.co.uk" target="_blank">Powered by Shopify</a>

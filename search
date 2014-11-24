@@ -14,7 +14,7 @@
 
   <!-- Title and description ================================================== -->
   <title>
-  Search &ndash; Kingfisher Gifts
+  Search &ndash; MJ Services
   </title>
 
   
@@ -29,8 +29,8 @@
   
 
 
-  <meta property="og:url" content="http://www.kingfishergifts.com/search">
-  <meta property="og:site_name" content="Kingfisher Gifts">
+  <meta property="og:url" content="http:///search">
+  <meta property="og:site_name" content="MJ Services">
 
   
   
@@ -41,12 +41,12 @@
 
 
   <!-- Helpers ================================================== -->
-  <link rel="canonical" href="http://www.kingfishergifts.com/search">
+  <link rel="canonical" href="http:///search">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
   
   <!-- Ajaxify Cart Plugin ================================================== -->
-  <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/ajaxify.scss.css?637" rel="stylesheet" type="text/css"  media="all"  />
+  
   
 
   <!-- CSS ================================================== -->
@@ -87,7 +87,7 @@
 
 <script id="__st">
 //<![CDATA[
-var __st={"a":6864363,"offset":0,"reqid":"1e7345ab-3c57-4b52-b0eb-9e2b52f9a29b","pageurl":"www.kingfishergifts.com/search","u":"d6f85aa5178d","p":"searchresults"};
+var __st={"a":6864363,"offset":0,"reqid":"1e7345ab-3c57-4b52-b0eb-9e2b52f9a29b","pageurl":"/search","u":"d6f85aa5178d","p":"searchresults"};
 //]]>
 </script>
 
@@ -98,8 +98,8 @@ var __st={"a":6864363,"offset":0,"reqid":"1e7345ab-3c57-4b52-b0eb-9e2b52f9a29b",
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
 <script src="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond.min.js?637" type="text/javascript"></script>
 <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-<link href="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
-<script src="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
+<link href="///search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
+<script src="///search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
 <![endif]-->
 
 
@@ -123,7 +123,7 @@ var __st={"a":6864363,"offset":0,"reqid":"1e7345ab-3c57-4b52-b0eb-9e2b52f9a29b",
           
             
               <a href="/" itemprop="url">
-                <img src="http:http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/logo.png?637" alt="Kingfisher Gifts" itemprop="logo">
+                
               </a>
             
           
@@ -368,7 +368,7 @@ var __st={"a":6864363,"offset":0,"reqid":"1e7345ab-3c57-4b52-b0eb-9e2b52f9a29b",
         
         <ul class="legal-links inline-list">
           <li>
-            &copy; 2014 Kingfisher Gifts
+            
           </li>
           <li>
             <a href="http://www.shopify.co.uk" target="_blank">Powered by Shopify</a>

@@ -14,7 +14,7 @@
 
   <!-- Title and description ================================================== -->
   <title>
-  Santa sleigh hat &ndash; Kingfisher Gifts
+  Santa sleigh hat &ndash; MJ Services
   </title>
 
   
@@ -35,8 +35,8 @@
 
   <meta property="og:description" content="Become a member of Santa&#39;s sleigh team with this festive hat.">
 
-  <meta property="og:url" content="http://www.kingfishergifts.com/products/cs189">
-  <meta property="og:site_name" content="Kingfisher Gifts">
+  <meta property="og:url" content="http:///products/cs189">
+  <meta property="og:site_name" content="MJ Services">
 
   
   
@@ -60,12 +60,12 @@
 
 
   <!-- Helpers ================================================== -->
-  <link rel="canonical" href="http://www.kingfishergifts.com/products/cs189">
+  <link rel="canonical" href="http:///products/cs189">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
   
   <!-- Ajaxify Cart Plugin ================================================== -->
-  <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/ajaxify.scss.css?637" rel="stylesheet" type="text/css"  media="all"  />
+  
   
 
   <!-- CSS ================================================== -->
@@ -92,7 +92,7 @@
 
 
   <!-- Header hook for plugins ================================================== -->
-  <link rel="alternate" type="application/json+oembed" href="http://www.kingfishergifts.com/products/cs189.oembed" />
+  <link rel="alternate" type="application/json+oembed" href="http:///products/cs189.oembed" />
 <script>
 //<![CDATA[
       var Shopify = Shopify || {};
@@ -106,7 +106,7 @@
 
 <script id="__st">
 //<![CDATA[
-var __st={"a":6864363,"offset":0,"reqid":"aa51a7f7-2b36-4aa3-8a82-a8febefab564","pageurl":"www.kingfishergifts.com/products/cs189","s":"products-399675695","t":"lead","u":"6ba5666aeb2b","p":"product","rtyp":"product","rid":399675695};
+var __st={"a":6864363,"offset":0,"reqid":"aa51a7f7-2b36-4aa3-8a82-a8febefab564","pageurl":"/products/cs189","s":"products-399675695","t":"lead","u":"6ba5666aeb2b","p":"product","rtyp":"product","rid":399675695};
 //]]>
 </script>
 
@@ -117,8 +117,8 @@ var __st={"a":6864363,"offset":0,"reqid":"aa51a7f7-2b36-4aa3-8a82-a8febefab564",
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
 <script src="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond.min.js?637" type="text/javascript"></script>
 <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-<link href="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
-<script src="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
+<link href="///search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
+<script src="///search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
 <![endif]-->
 
 
@@ -142,7 +142,7 @@ var __st={"a":6864363,"offset":0,"reqid":"aa51a7f7-2b36-4aa3-8a82-a8febefab564",
           
             
               <a href="/" itemprop="url">
-                <img src="http:http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/logo.png?637" alt="Kingfisher Gifts" itemprop="logo">
+                
               </a>
             
           
@@ -320,7 +320,7 @@ var __st={"a":6864363,"offset":0,"reqid":"aa51a7f7-2b36-4aa3-8a82-a8febefab564",
 
 
 <div class="grid" itemscope itemtype="http://schema.org/Product">
-  <meta itemprop="url" content="http://www.kingfishergifts.com/products/cs189">
+  <meta itemprop="url" content="http:///products/cs189">
   <meta itemprop="image" content="http://cdn.shopify.com/s/files/1/0686/4363/products/CS189_Green_Red_FT_grande.jpeg?v=1415018486">
 
   <div class="grid-item large--two-fifths">
@@ -402,10 +402,10 @@ var __st={"a":6864363,"offset":0,"reqid":"aa51a7f7-2b36-4aa3-8a82-a8febefab564",
 
 
 
-<div class="social-sharing is-default" data-permalink="http://www.kingfishergifts.com/products/cs189">
+<div class="social-sharing is-default" data-permalink="http:///products/cs189">
 
   
-    <a target="_blank" href="//www.facebook.com/sharer.php?u=http://www.kingfishergifts.com/products/cs189" class="share-facebook">
+    <a target="_blank" href="//www.facebook.com/sharer.php?u=http:///products/cs189" class="share-facebook">
       <span class="icon icon-facebook"></span>
       <span class="share-title">Share</span>
       
@@ -415,7 +415,7 @@ var __st={"a":6864363,"offset":0,"reqid":"aa51a7f7-2b36-4aa3-8a82-a8febefab564",
   
 
   
-    <a target="_blank" href="//twitter.com/share?url=http://www.kingfishergifts.com/products/cs189&amp;text=Santa sleigh hat" class="share-twitter">
+    <a target="_blank" href="//twitter.com/share?url=http:///products/cs189&amp;text=Santa sleigh hat" class="share-twitter">
       <span class="icon icon-twitter"></span>
       <span class="share-title">Tweet</span>
       
@@ -427,7 +427,7 @@ var __st={"a":6864363,"offset":0,"reqid":"aa51a7f7-2b36-4aa3-8a82-a8febefab564",
   
 
     
-      <a target="_blank" href="//pinterest.com/pin/create/button/?url=http://www.kingfishergifts.com/products/cs189&amp;media=http://cdn.shopify.com/s/files/1/0686/4363/products/CS189_Green_Red_FT_1024x1024.jpeg?v=1415018486&amp;description=Santa sleigh hat" class="share-pinterest">
+      <a target="_blank" href="//pinterest.com/pin/create/button/?url=http:///products/cs189&amp;media=http://cdn.shopify.com/s/files/1/0686/4363/products/CS189_Green_Red_FT_1024x1024.jpeg?v=1415018486&amp;description=Santa sleigh hat" class="share-pinterest">
         <span class="icon icon-pinterest"></span>
         <span class="share-title">Pin it</span>
         
@@ -437,7 +437,7 @@ var __st={"a":6864363,"offset":0,"reqid":"aa51a7f7-2b36-4aa3-8a82-a8febefab564",
     
 
     
-      <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http://www.kingfishergifts.com/products/cs189&amp;Title=Santa sleigh hat&amp;Category=Other&amp;ImageURL=http://cdn.shopify.com/s/files/1/0686/4363/products/CS189_Green_Red_FT_1024x1024.jpeg?v=1415018486" class="share-fancy">
+      <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http:///products/cs189&amp;Title=Santa sleigh hat&amp;Category=Other&amp;ImageURL=http://cdn.shopify.com/s/files/1/0686/4363/products/CS189_Green_Red_FT_1024x1024.jpeg?v=1415018486" class="share-fancy">
         <span class="icon icon-fancy"></span>
         <span class="share-title">Fancy</span>
       </a>
@@ -446,7 +446,7 @@ var __st={"a":6864363,"offset":0,"reqid":"aa51a7f7-2b36-4aa3-8a82-a8febefab564",
   
 
   
-    <a target="_blank" href="//plus.google.com/share?url=http://www.kingfishergifts.com/products/cs189" class="share-google">
+    <a target="_blank" href="//plus.google.com/share?url=http:///products/cs189" class="share-google">
       <!-- Cannot get Google+ share count with JS yet -->
       <span class="icon icon-google"></span>
       
@@ -867,7 +867,7 @@ var __st={"a":6864363,"offset":0,"reqid":"aa51a7f7-2b36-4aa3-8a82-a8febefab564",
         
         <ul class="legal-links inline-list">
           <li>
-            &copy; 2014 Kingfisher Gifts
+            
           </li>
           <li>
             <a href="http://www.shopify.co.uk" target="_blank">Powered by Shopify</a>

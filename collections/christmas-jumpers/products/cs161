@@ -14,64 +14,25 @@
 
   <!-- Title and description ================================================== -->
   <title>
-  Christmas 2-piece &ndash; Kingfisher Gifts
+  Christmas 2-piece &ndash; MJ Services
   </title>
 
   
   <meta name="description" content="An alternative to the traditional All-in-One, made from supersoft fleece with drawstring and bobbles.">
   
 
-  <!-- Product meta ================================================== -->
-  
-  <meta property="og:type" content="product">
-  <meta property="og:title" content="Christmas 2-piece">
-  
-  <meta property="og:image" content="http:http://cdn.shopify.com/s/files/1/0686/4363/cs161_Red_Blue_White_FT_grande.jpeg?v=1415025776">
-  <meta property="og:image:secure_url" content="https:http://cdn.shopify.com/s/files/1/0686/4363/cs161_Red_Blue_White_FT_grande.jpeg?v=1415025776">
-  
-  <meta property="og:image" content="http:http://cdn.shopify.com/s/files/1/0686/4363/cs161_Top_grande.jpg?v=1415025776">
-  <meta property="og:image:secure_url" content="https:http://cdn.shopify.com/s/files/1/0686/4363/cs161_Top_grande.jpg?v=1415025776">
-  
-  <meta property="og:image" content="http:http://cdn.shopify.com/s/files/1/0686/4363/cs161_Bottom_grande.jpg?v=1415025776">
-  <meta property="og:image:secure_url" content="https:http://cdn.shopify.com/s/files/1/0686/4363/cs161_Bottom_grande.jpg?v=1415025776">
-  
-  <meta property="og:price:amount" content="29.50">
-  <meta property="og:price:currency" content="GBP">
 
-
-  <meta property="og:description" content="An alternative to the traditional All-in-One, made from supersoft fleece with drawstring and bobbles.">
-
-  <meta property="og:url" content="http://www.kingfishergifts.com/cs161">
-  <meta property="og:site_name" content="Kingfisher Gifts">
-
-  
-  
-  
-  <meta name="twitter:site" content="@">
-
-
-  <meta name="twitter:card" content="product">
-  <meta name="twitter:title" content="Christmas 2-piece">
-  <meta name="twitter:description" content="An alternative to the traditional All-in-One, made from supersoft fleece with drawstring and bobbles.">
-  <meta name="twitter:image" content="https:http://cdn.shopify.com/s/files/1/0686/4363/cs161_Red_Blue_White_FT_medium.jpeg?v=1415025776">
-  <meta name="twitter:image:width" content="240">
-  <meta name="twitter:image:height" content="240">
-  <meta name="twitter:label1" content="Price">
-  <meta name="twitter:data1" content="&amp;pound;29.50 GBP">
-  
-  <meta name="twitter:label2" content="Brand">
-  <meta name="twitter:data2" content="Christmas Shop">
   
 
 
 
   <!-- Helpers ================================================== -->
-  <link rel="canonical" href="http://www.kingfishergifts.com/cs161">
+  <link rel="canonical" href="http:///cs161">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
   
   <!-- Ajaxify Cart Plugin ================================================== -->
-  <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/ajaxify.scss.css?637" rel="stylesheet" type="text/css"  media="all"  />
+  
   
 
   <!-- CSS ================================================== -->
@@ -98,7 +59,7 @@
 
 
   <!-- Header hook for plugins ================================================== -->
-  <link rel="alternate" type="application/json+oembed" href="http://www.kingfishergifts.com/cs161.oembed" />
+  <link rel="alternate" type="application/json+oembed" href="http:///cs161.oembed" />
 <script>
 //<![CDATA[
       var Shopify = Shopify || {};
@@ -112,7 +73,7 @@
 
 <script id="__st">
 //<![CDATA[
-var __st={"a":6864363,"offset":0,"reqid":"5b6691d9-4282-43b3-a12a-25ffdf02d8c7","pageurl":"www.kingfishergifts.comcs161","s":"products-399675399","t":"lead","u":"52ef71c907f1","p":"product","rtyp":"product","rid":399675399};
+var __st={"a":6864363,"offset":0,"reqid":"5b6691d9-4282-43b3-a12a-25ffdf02d8c7","pageurl":"cs161","s":"products-399675399","t":"lead","u":"52ef71c907f1","p":"product","rtyp":"product","rid":399675399};
 //]]>
 </script>
 
@@ -123,8 +84,8 @@ var __st={"a":6864363,"offset":0,"reqid":"5b6691d9-4282-43b3-a12a-25ffdf02d8c7",
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
 <script src="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond.min.js?637" type="text/javascript"></script>
 <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-<link href="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
-<script src="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
+<link href="///search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
+<script src="///search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
 <![endif]-->
 
 
@@ -148,7 +109,7 @@ var __st={"a":6864363,"offset":0,"reqid":"5b6691d9-4282-43b3-a12a-25ffdf02d8c7",
           
             
               <a href="/" itemprop="url">
-                <img src="http:http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/logo.png?637" alt="Kingfisher Gifts" itemprop="logo">
+                
               </a>
             
           
@@ -332,7 +293,7 @@ var __st={"a":6864363,"offset":0,"reqid":"5b6691d9-4282-43b3-a12a-25ffdf02d8c7",
 
 
 <div class="grid" itemscope itemtype="http://schema.org/Product">
-  <meta itemprop="url" content="http://www.kingfishergifts.com/cs161">
+  <meta itemprop="url" content="http:///cs161">
   <meta itemprop="image" content="http://cdn.shopify.com/s/files/1/0686/4363/cs161_Red_Blue_White_FT_grande.jpeg?v=1415025776">
 
   <div class="grid-item large--two-fifths">
@@ -456,10 +417,10 @@ var __st={"a":6864363,"offset":0,"reqid":"5b6691d9-4282-43b3-a12a-25ffdf02d8c7",
 
 
 
-<div class="social-sharing is-default" data-permalink="http://www.kingfishergifts.com/cs161">
+<div class="social-sharing is-default" data-permalink="http:///cs161">
 
   
-    <a target="_blank" href="//www.facebook.com/sharer.php?u=http://www.kingfishergifts.com/cs161" class="share-facebook">
+    <a target="_blank" href="//www.facebook.com/sharer.php?u=http:///cs161" class="share-facebook">
       <span class="icon icon-facebook"></span>
       <span class="share-title">Share</span>
       
@@ -469,7 +430,7 @@ var __st={"a":6864363,"offset":0,"reqid":"5b6691d9-4282-43b3-a12a-25ffdf02d8c7",
   
 
   
-    <a target="_blank" href="//twitter.com/share?url=http://www.kingfishergifts.com/cs161&amp;text=Christmas 2-piece" class="share-twitter">
+    <a target="_blank" href="//twitter.com/share?url=http:///cs161&amp;text=Christmas 2-piece" class="share-twitter">
       <span class="icon icon-twitter"></span>
       <span class="share-title">Tweet</span>
       
@@ -481,7 +442,7 @@ var __st={"a":6864363,"offset":0,"reqid":"5b6691d9-4282-43b3-a12a-25ffdf02d8c7",
   
 
     
-      <a target="_blank" href="//pinterest.com/pin/create/button/?url=http://www.kingfishergifts.com/cs161&amp;media=http://cdn.shopify.com/s/files/1/0686/4363/cs161_Red_Blue_White_FT_1024x1024.jpeg?v=1415025776&amp;description=Christmas 2-piece" class="share-pinterest">
+      <a target="_blank" href="//pinterest.com/pin/create/button/?url=http:///cs161&amp;media=http://cdn.shopify.com/s/files/1/0686/4363/cs161_Red_Blue_White_FT_1024x1024.jpeg?v=1415025776&amp;description=Christmas 2-piece" class="share-pinterest">
         <span class="icon icon-pinterest"></span>
         <span class="share-title">Pin it</span>
         
@@ -491,7 +452,7 @@ var __st={"a":6864363,"offset":0,"reqid":"5b6691d9-4282-43b3-a12a-25ffdf02d8c7",
     
 
     
-      <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http://www.kingfishergifts.com/cs161&amp;Title=Christmas 2-piece&amp;Category=Other&amp;ImageURL=http://cdn.shopify.com/s/files/1/0686/4363/cs161_Red_Blue_White_FT_1024x1024.jpeg?v=1415025776" class="share-fancy">
+      <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http:///cs161&amp;Title=Christmas 2-piece&amp;Category=Other&amp;ImageURL=http://cdn.shopify.com/s/files/1/0686/4363/cs161_Red_Blue_White_FT_1024x1024.jpeg?v=1415025776" class="share-fancy">
         <span class="icon icon-fancy"></span>
         <span class="share-title">Fancy</span>
       </a>
@@ -500,7 +461,7 @@ var __st={"a":6864363,"offset":0,"reqid":"5b6691d9-4282-43b3-a12a-25ffdf02d8c7",
   
 
   
-    <a target="_blank" href="//plus.google.com/share?url=http://www.kingfishergifts.com/cs161" class="share-google">
+    <a target="_blank" href="//plus.google.com/share?url=http:///cs161" class="share-google">
       <!-- Cannot get Google+ share count with JS yet -->
       <span class="icon icon-google"></span>
       
@@ -921,7 +882,7 @@ var __st={"a":6864363,"offset":0,"reqid":"5b6691d9-4282-43b3-a12a-25ffdf02d8c7",
         
         <ul class="legal-links inline-list">
           <li>
-            &copy; 2014 Kingfisher Gifts
+            
           </li>
           <li>
             <a href="http://www.shopify.co.uk" target="_blank">Powered by Shopify</a>

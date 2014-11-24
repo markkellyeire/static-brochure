@@ -14,7 +14,7 @@
 
   <!-- Title and description ================================================== -->
   <title>
-  Hat &amp; apron set &ndash; Kingfisher Gifts
+  Hat &amp; apron set &ndash; MJ Services
   </title>
 
   
@@ -35,8 +35,8 @@
 
   <meta property="og:description" content="Christmas apron and hat set for the Christmas day chef. ">
 
-  <meta property="og:url" content="http://www.kingfishergifts.com/products/cs251">
-  <meta property="og:site_name" content="Kingfisher Gifts">
+  <meta property="og:url" content="http:///products/cs251">
+  <meta property="og:site_name" content="MJ Services">
 
   
   
@@ -60,12 +60,12 @@
 
 
   <!-- Helpers ================================================== -->
-  <link rel="canonical" href="http://www.kingfishergifts.com/products/cs251">
+  <link rel="canonical" href="http:///products/cs251">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
   
   <!-- Ajaxify Cart Plugin ================================================== -->
-  <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/ajaxify.scss.css?637" rel="stylesheet" type="text/css"  media="all"  />
+  
   
 
   <!-- CSS ================================================== -->
@@ -92,7 +92,7 @@
 
 
   <!-- Header hook for plugins ================================================== -->
-  <link rel="alternate" type="application/json+oembed" href="http://www.kingfishergifts.com/products/cs251.oembed" />
+  <link rel="alternate" type="application/json+oembed" href="http:///products/cs251.oembed" />
 <script>
 //<![CDATA[
       var Shopify = Shopify || {};
@@ -106,7 +106,7 @@
 
 <script id="__st">
 //<![CDATA[
-var __st={"a":6864363,"offset":0,"reqid":"ae40d092-f550-4acb-b6a0-ffd66fd23cc8","pageurl":"www.kingfishergifts.com/collections/aprons/products/cs251","s":"products-399676043","t":"lead","u":"45979342c973","p":"product","rtyp":"product","rid":399676043};
+var __st={"a":6864363,"offset":0,"reqid":"ae40d092-f550-4acb-b6a0-ffd66fd23cc8","pageurl":"/collections/aprons/products/cs251","s":"products-399676043","t":"lead","u":"45979342c973","p":"product","rtyp":"product","rid":399676043};
 //]]>
 </script>
 
@@ -117,8 +117,8 @@ var __st={"a":6864363,"offset":0,"reqid":"ae40d092-f550-4acb-b6a0-ffd66fd23cc8",
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
 <script src="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond.min.js?637" type="text/javascript"></script>
 <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-<link href="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
-<script src="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
+<link href="///search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
+<script src="///search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
 <![endif]-->
 
 
@@ -142,7 +142,7 @@ var __st={"a":6864363,"offset":0,"reqid":"ae40d092-f550-4acb-b6a0-ffd66fd23cc8",
           
             
               <a href="/" itemprop="url">
-                <img src="http:http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/logo.png?637" alt="Kingfisher Gifts" itemprop="logo">
+                
               </a>
             
           
@@ -326,7 +326,7 @@ var __st={"a":6864363,"offset":0,"reqid":"ae40d092-f550-4acb-b6a0-ffd66fd23cc8",
 
 
 <div class="grid" itemscope itemtype="http://schema.org/Product">
-  <meta itemprop="url" content="http://www.kingfishergifts.com/products/cs251">
+  <meta itemprop="url" content="http:///products/cs251">
   <meta itemprop="image" content="http://cdn.shopify.com/s/files/1/0686/4363/products/CS251_Red_FT_grande.jpeg?v=1415018528">
 
   <div class="grid-item large--two-fifths">
@@ -408,10 +408,10 @@ var __st={"a":6864363,"offset":0,"reqid":"ae40d092-f550-4acb-b6a0-ffd66fd23cc8",
 
 
 
-<div class="social-sharing is-default" data-permalink="http://www.kingfishergifts.com/products/cs251">
+<div class="social-sharing is-default" data-permalink="http:///products/cs251">
 
   
-    <a target="_blank" href="//www.facebook.com/sharer.php?u=http://www.kingfishergifts.com/products/cs251" class="share-facebook">
+    <a target="_blank" href="//www.facebook.com/sharer.php?u=http:///products/cs251" class="share-facebook">
       <span class="icon icon-facebook"></span>
       <span class="share-title">Share</span>
       
@@ -421,7 +421,7 @@ var __st={"a":6864363,"offset":0,"reqid":"ae40d092-f550-4acb-b6a0-ffd66fd23cc8",
   
 
   
-    <a target="_blank" href="//twitter.com/share?url=http://www.kingfishergifts.com/products/cs251&amp;text=Hat & apron set" class="share-twitter">
+    <a target="_blank" href="//twitter.com/share?url=http:///products/cs251&amp;text=Hat & apron set" class="share-twitter">
       <span class="icon icon-twitter"></span>
       <span class="share-title">Tweet</span>
       
@@ -433,7 +433,7 @@ var __st={"a":6864363,"offset":0,"reqid":"ae40d092-f550-4acb-b6a0-ffd66fd23cc8",
   
 
     
-      <a target="_blank" href="//pinterest.com/pin/create/button/?url=http://www.kingfishergifts.com/products/cs251&amp;media=http://cdn.shopify.com/s/files/1/0686/4363/products/CS251_Red_FT_1024x1024.jpeg?v=1415018528&amp;description=Hat &amp; apron set" class="share-pinterest">
+      <a target="_blank" href="//pinterest.com/pin/create/button/?url=http:///products/cs251&amp;media=http://cdn.shopify.com/s/files/1/0686/4363/products/CS251_Red_FT_1024x1024.jpeg?v=1415018528&amp;description=Hat &amp; apron set" class="share-pinterest">
         <span class="icon icon-pinterest"></span>
         <span class="share-title">Pin it</span>
         
@@ -443,7 +443,7 @@ var __st={"a":6864363,"offset":0,"reqid":"ae40d092-f550-4acb-b6a0-ffd66fd23cc8",
     
 
     
-      <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http://www.kingfishergifts.com/products/cs251&amp;Title=Hat & apron set&amp;Category=Other&amp;ImageURL=http://cdn.shopify.com/s/files/1/0686/4363/products/CS251_Red_FT_1024x1024.jpeg?v=1415018528" class="share-fancy">
+      <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http:///products/cs251&amp;Title=Hat & apron set&amp;Category=Other&amp;ImageURL=http://cdn.shopify.com/s/files/1/0686/4363/products/CS251_Red_FT_1024x1024.jpeg?v=1415018528" class="share-fancy">
         <span class="icon icon-fancy"></span>
         <span class="share-title">Fancy</span>
       </a>
@@ -452,7 +452,7 @@ var __st={"a":6864363,"offset":0,"reqid":"ae40d092-f550-4acb-b6a0-ffd66fd23cc8",
   
 
   
-    <a target="_blank" href="//plus.google.com/share?url=http://www.kingfishergifts.com/products/cs251" class="share-google">
+    <a target="_blank" href="//plus.google.com/share?url=http:///products/cs251" class="share-google">
       <!-- Cannot get Google+ share count with JS yet -->
       <span class="icon icon-google"></span>
       
@@ -781,7 +781,7 @@ var __st={"a":6864363,"offset":0,"reqid":"ae40d092-f550-4acb-b6a0-ffd66fd23cc8",
         
         <ul class="legal-links inline-list">
           <li>
-            &copy; 2014 Kingfisher Gifts
+            
           </li>
           <li>
             <a href="http://www.shopify.co.uk" target="_blank">Powered by Shopify</a>

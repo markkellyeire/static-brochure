@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>http://www.kingfishergifts.com/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="http://www.kingfishergifts.com/collections/headwear.atom"/>
-  <title>Kingfisher Gifts</title>
+  <id>http:///collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http:///collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http:///collections/headwear.atom"/>
+  <title>MJ Services</title>
   <updated>2014-11-03T12:41:35+00:00</updated>
   <author>
-    <name>Kingfisher Gifts</name>
+    <name>MJ Services</name>
   </author>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675803</id>
+    <id>http:///products/399675803</id>
     <published>2014-11-03T12:41:35+00:00</published>
     <updated>2014-11-03T12:41:35+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs194"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs194"/>
     <title>Flexfit christmas cap</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -41,7 +41,7 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675803</id>
+      <id>http:///products/399675803</id>
       <title>Default / Black / Red / Green</title>
       <s:price currency="GBP">14.95</s:price>
       <s:sku/>
@@ -49,10 +49,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675779</id>
+    <id>http:///products/399675779</id>
     <published>2014-11-03T12:41:32+00:00</published>
     <updated>2014-11-03T12:41:32+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs193"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs193"/>
     <title>Plush character earmuffs</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -81,14 +81,14 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675779</id>
+      <id>http:///products/399675779</id>
       <title>Default / Reindeer</title>
       <s:price currency="GBP">7.99</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675779</id>
+      <id>http:///products/399675779</id>
       <title>Default / Santa</title>
       <s:price currency="GBP">7.99</s:price>
       <s:sku/>
@@ -96,10 +96,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675747</id>
+    <id>http:///products/399675747</id>
     <published>2014-11-03T12:41:29+00:00</published>
     <updated>2014-11-03T12:41:29+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs192"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs192"/>
     <title>Reindeer hat</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -128,7 +128,7 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675747</id>
+      <id>http:///products/399675747</id>
       <title>Default / Reindeer Brown</title>
       <s:price currency="GBP">9.99</s:price>
       <s:sku/>
@@ -136,10 +136,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675719</id>
+    <id>http:///products/399675719</id>
     <published>2014-11-03T12:41:27+00:00</published>
     <updated>2014-11-03T12:41:27+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs191"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs191"/>
     <title>Santa hat with plaits</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -168,7 +168,7 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675719</id>
+      <id>http:///products/399675719</id>
       <title>Default / Red</title>
       <s:price currency="GBP">2.99</s:price>
       <s:sku/>
@@ -176,10 +176,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675695</id>
+    <id>http:///products/399675695</id>
     <published>2014-11-03T12:41:24+00:00</published>
     <updated>2014-11-03T12:41:24+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs189"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs189"/>
     <title>Santa sleigh hat</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -208,7 +208,7 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675695</id>
+      <id>http:///products/399675695</id>
       <title>Default / Green / Red</title>
       <s:price currency="GBP">7.99</s:price>
       <s:sku/>
@@ -216,10 +216,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675675</id>
+    <id>http:///products/399675675</id>
     <published>2014-11-03T12:41:22+00:00</published>
     <updated>2014-11-03T12:41:22+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs188"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs188"/>
     <title>Li&apos;l elf hat</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -248,7 +248,7 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675675</id>
+      <id>http:///products/399675675</id>
       <title>Default / Green / Red</title>
       <s:price currency="GBP">7.99</s:price>
       <s:sku/>
@@ -256,10 +256,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675655</id>
+    <id>http:///products/399675655</id>
     <published>2014-11-03T12:41:19+00:00</published>
     <updated>2014-11-03T12:41:19+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs187"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs187"/>
     <title>Elf hat with ears</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -288,7 +288,7 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675655</id>
+      <id>http:///products/399675655</id>
       <title>Default / Green / Red</title>
       <s:price currency="GBP">7.99</s:price>
       <s:sku/>
@@ -296,10 +296,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675631</id>
+    <id>http:///products/399675631</id>
     <published>2014-11-03T12:41:16+00:00</published>
     <updated>2014-11-03T12:41:16+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs186"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs186"/>
     <title>Reindeer antlers</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -328,7 +328,7 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675631</id>
+      <id>http:///products/399675631</id>
       <title>Default / Reindeer</title>
       <s:price currency="GBP">6.99</s:price>
       <s:sku/>
@@ -336,10 +336,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675607</id>
+    <id>http:///products/399675607</id>
     <published>2014-11-03T12:41:14+00:00</published>
     <updated>2014-11-03T12:41:14+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs185"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs185"/>
     <title>Christmas chimney hat with legs</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -368,7 +368,7 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675607</id>
+      <id>http:///products/399675607</id>
       <title>Default / Red</title>
       <s:price currency="GBP">7.99</s:price>
       <s:sku/>
@@ -376,10 +376,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675583</id>
+    <id>http:///products/399675583</id>
     <published>2014-11-03T12:41:10+00:00</published>
     <updated>2014-11-03T12:41:10+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs184"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs184"/>
     <title>Light-up singing christmas hat</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -408,14 +408,14 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675583</id>
+      <id>http:///products/399675583</id>
       <title>Default / Snowman</title>
       <s:price currency="GBP">14.99</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675583</id>
+      <id>http:///products/399675583</id>
       <title>Default / Stripes</title>
       <s:price currency="GBP">14.99</s:price>
       <s:sku/>
@@ -423,10 +423,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675559</id>
+    <id>http:///products/399675559</id>
     <published>2014-11-03T12:41:08+00:00</published>
     <updated>2014-11-03T12:41:08+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs183"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs183"/>
     <title>Plush santa hat</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -455,7 +455,7 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675559</id>
+      <id>http:///products/399675559</id>
       <title>Default / Red</title>
       <s:price currency="GBP">3.60</s:price>
       <s:sku/>
@@ -463,10 +463,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675515</id>
+    <id>http:///products/399675515</id>
     <published>2014-11-03T12:41:00+00:00</published>
     <updated>2014-11-03T12:41:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs181"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs181"/>
     <title>Christmas cook hat</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -495,14 +495,14 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675515</id>
+      <id>http:///products/399675515</id>
       <title>Default / Red</title>
       <s:price currency="GBP">2.50</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675515</id>
+      <id>http:///products/399675515</id>
       <title>Default / White</title>
       <s:price currency="GBP">2.50</s:price>
       <s:sku/>
@@ -510,10 +510,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675475</id>
+    <id>http:///products/399675475</id>
     <published>2014-11-03T12:40:56+00:00</published>
     <updated>2014-11-03T12:40:56+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs180"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs180"/>
     <title>Santa hat long</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -542,14 +542,14 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675475</id>
+      <id>http:///products/399675475</id>
       <title>Default / Red</title>
       <s:price currency="GBP">4.99</s:price>
       <s:sku/>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675475</id>
+      <id>http:///products/399675475</id>
       <title>Default / Stripes</title>
       <s:price currency="GBP">4.99</s:price>
       <s:sku/>
@@ -557,10 +557,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675223</id>
+    <id>http:///products/399675223</id>
     <published>2014-11-03T12:40:32+00:00</published>
     <updated>2014-11-03T12:40:32+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs111"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs111"/>
     <title>Premium Santa Hat</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -589,7 +589,7 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675223</id>
+      <id>http:///products/399675223</id>
       <title>Default / Red/ White</title>
       <s:price currency="GBP">1.49</s:price>
       <s:sku/>
@@ -597,10 +597,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>http://www.kingfishergifts.com/products/399675203</id>
+    <id>http:///products/399675203</id>
     <published>2014-11-03T12:40:30+00:00</published>
     <updated>2014-11-03T12:40:30+00:00</updated>
-    <link rel="alternate" type="text/html" href="http://www.kingfishergifts.com/products/cs102"/>
+    <link rel="alternate" type="text/html" href="http:///products/cs102"/>
     <title>Budget Santa Hat</title>
     <s:type>Headwear</s:type>
     <s:vendor>Christmas Shop</s:vendor>
@@ -629,7 +629,7 @@
     <s:tag>Gifts</s:tag>
     <s:tag>Headwear</s:tag>
     <s:variant>
-      <id>http://www.kingfishergifts.com/products/399675203</id>
+      <id>http:///products/399675203</id>
       <title>Default / Red</title>
       <s:price currency="GBP">0.99</s:price>
       <s:sku/>

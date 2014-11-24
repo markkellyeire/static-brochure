@@ -14,7 +14,7 @@
 
   <!-- Title and description ================================================== -->
   <title>
-  Stockings &ndash; tagged "Christmas" &ndash; Kingfisher Gifts
+  Stockings &ndash; tagged "Christmas" &ndash; MJ Services
   </title>
 
   
@@ -29,8 +29,8 @@
   
 
 
-  <meta property="og:url" content="http://www.kingfishergifts.com/collections/stockings/christmas">
-  <meta property="og:site_name" content="Kingfisher Gifts">
+  <meta property="og:url" content="http:///collections/stockings/christmas">
+  <meta property="og:site_name" content="MJ Services">
 
   
   
@@ -41,12 +41,12 @@
 
 
   <!-- Helpers ================================================== -->
-  <link rel="canonical" href="http://www.kingfishergifts.com/collections/stockings/christmas">
+  <link rel="canonical" href="http:///collections/stockings/christmas">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
   
   <!-- Ajaxify Cart Plugin ================================================== -->
-  <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/ajaxify.scss.css?637" rel="stylesheet" type="text/css"  media="all"  />
+  
   
 
   <!-- CSS ================================================== -->
@@ -74,7 +74,7 @@
 
   <!-- Header hook for plugins ================================================== -->
   <link href="/collections/stockings.atom" title="Feed" rel="alternate" type="application/atom+xml" />
-<link rel="alternate" type="application/json+oembed" href="http://www.kingfishergifts.com/collections/stockings/christmas.oembed" />
+<link rel="alternate" type="application/json+oembed" href="http:///collections/stockings/christmas.oembed" />
 <script>
 //<![CDATA[
       var Shopify = Shopify || {};
@@ -88,7 +88,7 @@
 
 <script id="__st">
 //<![CDATA[
-var __st={"a":6864363,"offset":0,"reqid":"565de26d-8994-48ed-b001-9a87a4819d74","pageurl":"www.kingfishergifts.com/collections/stockings/christmas","s":"collections-30376375","u":"3a4f21cf397e","p":"collection","rtyp":"collection","rid":30376375};
+var __st={"a":6864363,"offset":0,"reqid":"565de26d-8994-48ed-b001-9a87a4819d74","pageurl":"/collections/stockings/christmas","s":"collections-30376375","u":"3a4f21cf397e","p":"collection","rtyp":"collection","rid":30376375};
 //]]>
 </script>
 
@@ -100,8 +100,8 @@ var __st={"a":6864363,"offset":0,"reqid":"565de26d-8994-48ed-b001-9a87a4819d74",
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
 <script src="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond.min.js?637" type="text/javascript"></script>
 <link href="http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-<link href="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
-<script src="//www.kingfishergifts.com/search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
+<link href="///search?q=91885f7770d93e04ef9176daac27cc7f" id="respond-redirect" rel="respond-redirect" />
+<script src="///search?q=91885f7770d93e04ef9176daac27cc7f" type="text/javascript"></script>
 <![endif]-->
 
 
@@ -125,7 +125,7 @@ var __st={"a":6864363,"offset":0,"reqid":"565de26d-8994-48ed-b001-9a87a4819d74",
           
             
               <a href="/" itemprop="url">
-                <img src="http:http://cdn.shopify.com/s/files/1/0686/4363/t/6/assets/logo.png?637" alt="Kingfisher Gifts" itemprop="logo">
+                
               </a>
             
           
@@ -723,7 +723,7 @@ var __st={"a":6864363,"offset":0,"reqid":"565de26d-8994-48ed-b001-9a87a4819d74",
         
         <ul class="legal-links inline-list">
           <li>
-            &copy; 2014 Kingfisher Gifts
+            
           </li>
           <li>
             <a href="http://www.shopify.co.uk" target="_blank">Powered by Shopify</a>
